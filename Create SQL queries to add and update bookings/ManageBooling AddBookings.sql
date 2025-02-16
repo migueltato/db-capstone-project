@@ -14,4 +14,4 @@ end //
 DELIMITER ;
 
 call AddBooking(9, 3, 4, "2022-12-30");
-select * from Bookings;
+-- select * from Bookings;

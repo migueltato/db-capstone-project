@@ -12,4 +12,4 @@ end //
 DELIMITER ;
 
 call CancelBooking(9);
-select * from Bookings;
+-- select * from Bookings;

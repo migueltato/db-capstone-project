@@ -13,4 +13,3 @@ end //
 DELIMITER ;
 
 call UpdateBooking(9, "2022-12-21");
-select * from Bookings;
